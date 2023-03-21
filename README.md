@@ -8,9 +8,9 @@
 •	Tableau                   
 •	VBA          
 •	Market Research        
-•	Communication 
-•	Strategic thinking
-•	Team Management                
+•	Communication                      
+•	Strategic thinking                               
+•	Team Management                                          
 •	Interpersonal Skills                      
 •	Database Management                          
 •	Project Management                           
